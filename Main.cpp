@@ -1,12 +1,6 @@
 #include<stdio.h>
 #include<string>
 
-#include"Student.h"
-#include"Inagaki.h"
-
-Student m_student;
-Inagaki m_name;
-
 int main()
 {
 	//getchar();
